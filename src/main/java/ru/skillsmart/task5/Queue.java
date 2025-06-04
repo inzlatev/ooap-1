@@ -11,11 +11,11 @@ public class Queue<T> {
     public static final int DEQUEUE_OK = 1;
     public static final int DEQUEUE_ERR = 2;
 
-    private T[] array;
-    private int capacity;
-    private int head;
-    private int tail;
-    private int count;
+    protected T[] array;
+    protected int capacity;
+    protected int head;
+    protected int tail;
+    protected int count;
 
     private final Class<T> clazz;
 
