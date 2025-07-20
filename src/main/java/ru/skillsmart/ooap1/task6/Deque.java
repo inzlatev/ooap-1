@@ -1,6 +1,6 @@
-package ru.skillsmart.task6;
+package ru.skillsmart.ooap1.task6;
 
-import ru.skillsmart.task5.Queue;
+import ru.skillsmart.ooap1.task5.Queue;
 
 public class Deque<T> extends Queue<T> {
 

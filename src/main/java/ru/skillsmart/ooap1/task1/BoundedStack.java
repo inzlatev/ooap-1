@@ -1,4 +1,4 @@
-package ru.skillsmart.task1;
+package ru.skillsmart.ooap1.task1;
 
 import java.util.ArrayList;
 import java.util.List;

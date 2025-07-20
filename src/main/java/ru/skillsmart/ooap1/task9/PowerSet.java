@@ -1,4 +1,4 @@
-package ru.skillsmart.task9;
+package ru.skillsmart.ooap1.task9;
 
 public class PowerSet {
 

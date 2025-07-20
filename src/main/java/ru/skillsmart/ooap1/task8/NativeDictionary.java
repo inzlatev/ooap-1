@@ -1,4 +1,4 @@
-package ru.skillsmart.task8;
+package ru.skillsmart.ooap1.task8;
 
 import java.lang.reflect.Array;
 

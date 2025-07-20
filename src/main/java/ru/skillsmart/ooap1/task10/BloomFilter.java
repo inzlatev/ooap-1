@@ -1,4 +1,4 @@
-package ru.skillsmart.task10;
+package ru.skillsmart.ooap1.task10;
 
 public class BloomFilter {
 

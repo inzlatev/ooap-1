@@ -1,4 +1,4 @@
-package ru.skillsmart.task5;
+package ru.skillsmart.ooap1.task5;
 
 import java.lang.reflect.Array;
 

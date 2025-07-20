@@ -1,4 +1,4 @@
-package ru.skillsmart.task7;
+package ru.skillsmart.ooap1.task7;
 
 public class HashTable {
     public int size;

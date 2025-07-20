@@ -1,4 +1,4 @@
-package ru.skillsmart.task2;
+package ru.skillsmart.ooap1.task2;
 
 
 // 2.1

@@ -1,4 +1,4 @@
-package ru.skillsmart.task3;
+package ru.skillsmart.ooap1.task3;
 
 public class ParentList<T> {
 
